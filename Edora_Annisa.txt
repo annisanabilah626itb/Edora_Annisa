@@ -1,3 +1,4 @@
 Edora
 - Membuat source code dalam pemrosesan data edora
 - Membuat visualisasi data dari model edora
+- Membuat model yang akurat
